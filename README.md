@@ -36,4 +36,4 @@ A simple and responsive two-page React web application for event management and 
 
 ## 📁 Folder Structure
 
-amartask ├── public/ ├── src/ │ ├── assets/ │ │ └── logo.png │ ├── components/ │ │ ├── Header.jsx │ │ └── EventCard.jsx │ ├── pages/ │ │ ├── Home.jsx │ │ └── Events.jsx │ ├── App.jsx │ ├── index.css │ └── index.js  ├── package.json └── README.md
+amartask ├── public/ ├── src/ │ ├── assets/images │ │ └── logo.png │ ├── components/ │ │ ├── Header.jsx │ │ └── EventCard.jsx │ ├── pages/ │ │ ├── Home.jsx │ │ └── Events.jsx │ ├── App.jsx │ ├── index.css │ └── index.js  ├── package.json └── README.md
