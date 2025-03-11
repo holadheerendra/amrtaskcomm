@@ -29,7 +29,7 @@ A simple and responsive two-page React web application for event management and 
  npm start
 
  ## 🚀 Live Demo
-> [🔗 Deployed Link](https://your-deployment-url.netlify.app)  
+> [🔗 Deployed Link](https://amarjit-task.netlify.app/)  
 *(Replace with your Vercel/Netlify deployment link)*
 
 ---
